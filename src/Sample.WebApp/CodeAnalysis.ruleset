@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="New Rule Set" Description=" " ToolsVersion="15.0">
+  <Rules AnalyzerId="Microsoft.CodeAnalysis.CSharp" RuleNamespace="Microsoft.CodeAnalysis.CSharp">
+    <Rule Id="CS1570" Action="None" />
+    <Rule Id="CS1571" Action="None" />
+    <Rule Id="CS1572" Action="None" />
+  </Rules>
+</RuleSet>
